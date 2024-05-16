@@ -2,6 +2,10 @@
 
 /* stylelint-disable @stylistic/selector-list-comma-newline-after */
 
+.body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .blog-header-logo {
     font-family: "Playfair Display", Georgia, "Times New Roman", serif/*rtl:Amiri, Georgia, "Times New Roman", serif*/;
     font-size: 2.25rem;
